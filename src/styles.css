@@ -6,3 +6,16 @@ body{
     height: fit-content;
 }
 
+form button{
+    margin-right: 1rem;
+}
+
+.math-form-field{
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin-top: 1rem
+}
+.contenedor-botones{
+    margin-top: 1rem;
+}
